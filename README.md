@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://github.com/seleniumbase/SeleniumBase/">
 <img src="https://seleniumbase.io/img/sb_logo_10.png" alt="SeleniumBase" width="260" />
 </a></p>
+<a href="https://dev.to/mintzworld">
+  <span>Michael Mintz's DEV Profile</span>
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michael Mintz's DEV Profile" height="30" width="30">
+</a>
