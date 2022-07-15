@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://github.com/seleniumbase/SeleniumBase/">
   <h1 align="center">SeleniumBase</h1>
-  <p align="center"><img align="center" src="https://seleniumbase.io/cdn/img/sbase_logo.png" alt="SeleniumBase" width="410" />
+  <p align="center"><img align="center" src="https://seleniumbase.io/cdn/img/sb_banner_2.png" alt="SeleniumBase" width="410" />
 </a></p>
 <a href="https://dev.to/mintzworld">
   <span>Michael Mintz's DEV Profile</span>
