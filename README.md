@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><a href="https://github.com/seleniumbase/SeleniumBase/">
-  <h1 align="center">SeleniumBase</h1>
-  <p align="center"><img align="center" src="https://seleniumbase.io/cdn/img/sb_banner_2.png" alt="SeleniumBase" width="410" />
-</a></p>
-<a href="https://dev.to/mintzworld">
+# [SeleniumBase](https://github.com/seleniumbase/SeleniumBase/)
+
+<p align="center"><a href="https://github.com/seleniumbase/SeleniumBase/"><img align="center" src="https://seleniumbase.io/cdn/img/sb_banner_2.png" alt="SeleniumBase" width="410" /></a></p>
+
+  
+<p><a href="https://dev.to/mintzworld">
   <span>Michael Mintz's DEV Profile</span>
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michael Mintz's DEV Profile" height="30" width="30">
-</a>
+</a></p>
+  
 <p><a href="https://stackexchange.com/users/9494775/michael-mintz"><img src="https://stackexchange.com/users/flair/9494775.png" width="208" height="58" alt="profile for Michael Mintz on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Michael Mintz on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a></p>
