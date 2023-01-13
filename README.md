@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 # [SeleniumBase](https://github.com/seleniumbase/SeleniumBase/)
 
-<p align="center"><a href="https://github.com/seleniumbase/SeleniumBase/"><img align="center" src="https://seleniumbase.io/cdn/img/sb_banner_2.png" alt="SeleniumBase" width="410" /></a></p>
+<p align="center"><a href="https://github.com/seleniumbase/SeleniumBase/"><img align="center" src="https://seleniumbase.github.io/cdn/img/sb_media_logo_t6.png" alt="SeleniumBase" width="510" /></a></p>
 
-  
 <p><a href="https://dev.to/mintzworld">
   <span>Michael Mintz's DEV Profile</span>
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michael Mintz's DEV Profile" height="30" width="30">
