@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 </a></p>
   
 <p><a href="https://stackexchange.com/users/9494775/michael-mintz"><img src="https://stackexchange.com/users/flair/9494775.png" width="208" height="58" alt="profile for Michael Mintz on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Michael Mintz on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a></p>
+
+![](https://komarev.com/ghpvc/?username=mdmintz&color=green)
