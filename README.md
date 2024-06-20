@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/seleniumbase/SeleniumBase/"><img align="center" src="https://seleniumbase.github.io/cdn/img/sb_media_logo_t7.png" alt="SeleniumBase" width="510" /></a>
-  <div align="center"><a href="https://github.com/seleniumbase/SeleniumBase/stargazers"><img src="https://img.shields.io/github/stars/seleniumbase/seleniumbase.svg?color=19A57B" title="Stargazers" /></a></div>
 </p>
 
 <p><a href="https://dev.to/mintzworld">
