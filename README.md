@@ -24,3 +24,15 @@ Here are some ideas to get you started:
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michael Mintz's DEV Profile" height="30" width="30">
 </a>
 </p>
+
+<hr />
+
+<h3><b>SeleniumBase</b> Fun Fact:</h3>
+<h4>The 1st SeleniumBase GitHub issue was from a Tesla engineer:</h4><div></div>
+<a href="https://github.com/seleniumbase/SeleniumBase/issues/35"><img src="https://seleniumbase.github.io/other/first_issue.png" width="472"></a>
+
+<hr />
+
+<h3>And... <a href="https://github.com/seleniumbase/SeleniumBase/blob/master/help_docs/happy_customers.md">SeleniumBase has lots of happy customers!</a></h3>
+
+<h4>Learn More: https://github.com/seleniumbase/SeleniumBase</h4>
