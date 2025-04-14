@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=mdmintz&show_icons=true&include_all_commits=false&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmintz&layout=compact&theme=github_dark_dimmed&langs_count=8" />
+<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=mdmintz&orgs=seleniumbase&show_icons=true&include_all_commits=false&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmintz&orgs=seleniumbase&layout=compact&theme=github_dark_dimmed&langs_count=8" />
 
 <p align="center">
   <a href="https://github.com/seleniumbase/SeleniumBase/"><img align="center" src="https://seleniumbase.github.io/cdn/img/sb_media_logo_t7.png" alt="SeleniumBase" width="510" /></a>
