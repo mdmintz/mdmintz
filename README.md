@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<p><a href="https://www.youtube.com/@MichaelMintz">
+  <img src="https://img.shields.io/badge/YouTube-Michael%20Mintz-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" /></a> <a href="https://www.youtube.com/@MichaelMintz">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCSQElO8vQmNPuTgdd83BHdw?style=flat&logo=youtube&logoColor=white&label=YouTube%20Subscribers&color=red" alt="YouTube Subscribers" />
+</a></p>
+
 <hr />
 
 <h3><b>SeleniumBase</b> Fun Fact:</h3>
